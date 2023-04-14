@@ -7,14 +7,14 @@ This is the base for FelixBOT's development. It is modelled after a YouTube tuto
 * To run the bot (while using your PC as the bot's server), you will execute the run.py file. **At least Python 3.8 is recommended to be used to run the bot.**
 
 ## Prerequisites
-The prerequisites for the bot to work are as follows, which can be installed using pip.;
+The prerequisites for the bot to work are as follows, which can be installed using pip.
 * `discord`
 * `openai`
 * `python-dotenv`
 * `requests`
 
 # ภาษาไทย
-นี่คือพื้นฐานสำหรับการพัฒนาของ FelixBOT โดยมีต้นแบบมาจากบทช่วยสอน YouTube ที่สร้างโดย Amigoscode;
+นี่คือพื้นฐานสำหรับการพัฒนาของ FelixBOT โดยมีต้นแบบมาจากบทช่วยสอน YouTube ที่สร้างโดย Amigoscode
 
 ## วิธีการใช้งาน
 * คำตอบสั้น: ไปดูวิดิโอนี้ https://www.youtube.com/watch?v=wdgVv4UP08c
